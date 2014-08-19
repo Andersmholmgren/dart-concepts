@@ -1,0 +1,6 @@
+name: concepts
+version: 0.1.0
+homepage: https://github.com/JosephMoniz/dart-concepts
+description: >
+  A small piece of the haskell type class hierarchy ported to dart.
+author: Joseph Moniz <joseph.moniz@gmail.com>
