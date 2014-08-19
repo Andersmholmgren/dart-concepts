@@ -8,11 +8,6 @@ abstract class Monoid<Self> extends SemiGroup<Self> {
   const Monoid();
 
   /**
-   * The identity constructor.
-   */
-  const Monoid.empty();
-
-  /**
    * A SemiGroup with identity.
    *
    * A Monoid is a SemiGroup that also implements an identity value.
